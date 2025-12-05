@@ -1,5 +1,20 @@
 # Well-Performance-Optimisation
-Analyzed 120-well oil field data using SQL and Power BI to identify underperforming assets. Discovered 18 high-potential wells with fixable issues being overlooked. Recommended targeted $1.2M workover program that increased production 15%, cut OPEX/barrel 22%, and captured $2.1M NPV in 12 months from a $3.9M opportunity.
+
+
+## Problem Statement
+
+Forcado Global is an oil & gas operator that was experiencing declining production and rising operational costs across its 120-well field. Management lacked a clear, data-driven view to prioritize intervention budgets. 
+
+### The Challenge
+Identify underperforming wells with the highest potential for production uplift and cost savings to maximize the asset’s net present value (NPV).
+
+
+
+
+
+
+
+
 ~~~sql
 SELECT 
 well_production_12_months.Well_ID,
