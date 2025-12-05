@@ -9,6 +9,27 @@ Forcado Global is an oil & gas operator that was experiencing declining producti
 Identify underperforming wells with the highest potential for production uplift and cost savings to maximize the asset’s net present value (NPV).
 
 
+### Data Source
+The data set used for this project is for 'Production table', 'Well information table', and 'Cost estimate table'
+
+### Tools
+- Excel - Data Cleaning [Download Here](https://microsoft.com)
+- SQL - Data Analysis
+- Power bi - Data Reporting
+
+### Exploratory Data Analysis (Metrics)
+EDA involves exploring the data to answer the following questions.
+1. What is the production Volume & Decline Rate? (Core indicators of well health and performance)
+2. What is the Operating Expenses (OPEX) per Barrel? (Efficiency metric. High OPEX/barrel kills profitability.)
+3. What is the Water Cut / Gas-Oil Ratio (GOR)? (Technical indicators of well problems [e.g., water breakthrough].)
+4. What is the Net Present Value (NPV)? (The ultimate financial metric.)
+5. What is the Estimated Ultimate Recovery (EUR)? (Helps assess long-term potential.)
+
+
+
+
+
+
 
 
 
