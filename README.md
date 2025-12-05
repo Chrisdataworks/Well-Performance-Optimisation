@@ -1,5 +1,17 @@
 # Well-Performance-Optimisation
 
+### Table of Contents
+- [Problem Statement]
+- [The Challenge]
+- [Data Source]
+- [Tools]
+- [Exploratory Data Analysis (Metrics](Exploratory-data-analysis-(metrics))
+- [Data analysis](data-analysis)
+- [Findings/Insight](findings/insight)
+- [Recommendation](Recommendation)
+
+
+
 
 ## Problem Statement
 
