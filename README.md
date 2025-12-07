@@ -11,8 +11,6 @@
 - [Recommendation](Recommendation)
 
 
-
-
 ## Problem Statement
 
 Forcado Global is an oil & gas operator that was experiencing declining production and rising operational costs across its 120-well field. Management lacked a clear, data-driven view to prioritize intervention budgets. 
@@ -64,6 +62,8 @@ Month;
 ~~~
 
 ### Dashboard (Power BI)
+
+<img width="614" height="353" alt="Linked" src="https://github.com/user-attachments/assets/5f0c9852-79d0-45ab-a8f5-842cb8d23511" />
 
 
 ### Findings/Insights
